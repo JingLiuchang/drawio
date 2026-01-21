@@ -239,9 +239,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RPAfPVBJ1U6yZJ7jD3qk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" value="&lt;span style=&quot;font-family: &amp;quot;宋体 常规&amp;quot;;&quot;&gt;数据集&amp;nbsp;&lt;/span&gt;D&lt;span&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;&lt;div&gt;|D&lt;span&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;|=N/P&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="455" as="geometry" />
-        </mxCell>
         <mxCell id="RPAfPVBJ1U6yZJ7jD3qk-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;超出内存!&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="65" y="525" as="geometry" />
         </mxCell>
@@ -348,6 +345,9 @@
         </mxCell>
         <mxCell id="wGub2z17hmBlEgbGO6p1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体 常规&quot; style=&quot;font-size: 18px;&quot;&gt;通过重叠点合并索引&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="350" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="RPAfPVBJ1U6yZJ7jD3qk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" value="&lt;span style=&quot;font-family: &amp;quot;宋体 常规&amp;quot;;&quot;&gt;数据集&amp;nbsp;&lt;/span&gt;D&lt;span&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;&lt;div&gt;|D&lt;span&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;|=N/P&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="455" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
