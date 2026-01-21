@@ -235,7 +235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CN2OQ5SC8XiLqu3QqA3h" name="kmeans分块示意图">
-    <mxGraphModel dx="873" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1746" dy="2570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
             <mxPoint x="350" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uiFDjuGR9VC6BGYL3xbI-3" connectable="0" parent="uiFDjuGR9VC6BGYL3xbI-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体 常规&quot; style=&quot;font-size: 16px;&quot;&gt;各点被分配到&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体 常规&quot; style=&quot;font-size: 16px;&quot;&gt;最近的两个Kmean簇&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="uiFDjuGR9VC6BGYL3xbI-3" connectable="0" parent="uiFDjuGR9VC6BGYL3xbI-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体 常规&quot; style=&quot;font-size: 16px;&quot;&gt;各点被分配到&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体 常规&quot; style=&quot;font-size: 16px;&quot;&gt;最近的两个&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;KMean&lt;/font&gt;&lt;font face=&quot;宋体 常规&quot; style=&quot;font-size: 16px;&quot;&gt;簇&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2242" y="2" as="geometry">
             <mxPoint x="16" y="2" as="offset" />
           </mxGeometry>
