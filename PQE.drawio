@@ -1199,6 +1199,18 @@
             <mxPoint x="425" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wO2dP6NcfHvxS9HmT39a-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=16;" value="00" vertex="1">
+          <mxGeometry height="10" width="10" x="45" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="wO2dP6NcfHvxS9HmT39a-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=16;" value="01" vertex="1">
+          <mxGeometry height="5" width="20" x="40" y="387.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wO2dP6NcfHvxS9HmT39a-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=16;" value="10" vertex="1">
+          <mxGeometry height="10" width="20" x="40" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="wO2dP6NcfHvxS9HmT39a-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=16;" value="11" vertex="1">
+          <mxGeometry height="10" width="10" x="45" y="405" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
