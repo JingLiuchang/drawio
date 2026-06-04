@@ -1068,7 +1068,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bbdF7Jfn6jQAxleKoONJ" name="product-quantization">
-    <mxGraphModel dx="1184" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="838" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1270,11 +1270,14 @@
         <mxCell id="TVChgpmo9CWWNos7qGmi-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;$$\{c_{M1},\ldots,c_{MK}\}$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="454" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="TVChgpmo9CWWNos7qGmi-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$=K^M$$" vertex="1">
-          <mxGeometry height="30" width="60" x="550" y="790" as="geometry" />
+        <mxCell id="TVChgpmo9CWWNos7qGmi-57" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="135" x="240" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="TVChgpmo9CWWNos7qGmi-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Codewords&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="610" y="790" as="geometry" />
+        <mxCell id="TVChgpmo9CWWNos7qGmi-53" parent="TVChgpmo9CWWNos7qGmi-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;$$K^M$$&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVChgpmo9CWWNos7qGmi-54" parent="TVChgpmo9CWWNos7qGmi-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Codewords&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
