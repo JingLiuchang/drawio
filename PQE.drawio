@@ -1576,7 +1576,7 @@
           <mxGeometry height="30" width="60" x="515" y="290" as="geometry" />
         </mxCell>
         <mxCell id="DmscSyykd4rap6kZDcRl-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;$$Q(x) = \Delta \left\lceil \frac{x - \ell}{\Delta} + \frac{1}{2} \right\rceil + \ell, \Delta = \frac{u - \ell}{2^B - 1}$$&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="330" y="240" as="geometry" />
+          <mxGeometry height="30" width="160" x="130" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
