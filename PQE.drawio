@@ -1057,7 +1057,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HdoQ9mdfeY0CFYJ9GO0_" name="fdcom">
-    <mxGraphModel dx="402" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="402" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1117,6 +1117,9 @@
         </mxCell>
         <mxCell id="fhChcqvcN2Awel0YxX-p-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;estimated distance $$\text{&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;dis&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;}&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&#39;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;$$&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="400" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fhChcqvcN2Awel0YxX-p-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;estimated distance $$\text{&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;dis&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;}&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&#39;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;$$&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
